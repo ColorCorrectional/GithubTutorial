@@ -23,7 +23,7 @@ features:
     details: Lipsum Oprim
   - icon: ⚙️
     title: No Config
-    details:Lipsum Oprim
+    details: Lipsum Oprim
   - icon: 🔐
     title: Type Safety
     details: Lipsum Oprim
