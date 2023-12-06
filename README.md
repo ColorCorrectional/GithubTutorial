@@ -1,21 +1,26 @@
 # GithubTutorial
 
-This will be deleted when I feel confident in github
+```lua
+print("Hello World")
 
-## Section AB
+local function doSomething()
+    for key, value in ... do
 
-### Lorem ipsum C
+    end
+end
 
-Lorem Lorem ipsum ipsum 
+-- .. create xyz
+doSomething()
+```
 
-### Lorem ipsum D
+# Extras
 
-Lorem ipsum  Lorem ipsum
+1. abc
+   - xyz
+     - adb
 
-### Lorem ipsum E
+- [x] check
+- [ ] none
 
-Lorem ipsum ipsum Lorem 
-
-### Lorem ipsum F
-
-ipsum ipsum Lorem Lorem
+> [!CAUTION]
+> about
