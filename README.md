@@ -13,7 +13,11 @@ end
 doSomething()
 ```
 
-# Extras
+
+> [!TIP]
+> about stuff!
+
+# Others
 
 1. abc
    - xyz
@@ -22,5 +26,3 @@ doSomething()
 - [x] check
 - [ ] none
 
-> [!CAUTION]
-> about stuff!
