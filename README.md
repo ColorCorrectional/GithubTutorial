@@ -1,11 +1,11 @@
 # GithubTutorial
 
 ```lua
-print("Hello World")
+print("Goodbye, World.")
 
 local function doSomething()
-    for key, value in ... do
-
+    for key, value in {} do
+        ...
     end
 end
 
@@ -17,10 +17,10 @@ doSomething()
 
 1. abc
    - xyz
-     - adb
+2. cbd
 
 - [x] check
 - [ ] none
 
 > [!CAUTION]
-> about
+> about stuff!
