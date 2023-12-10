@@ -1,7 +1,7 @@
-site_name: Fusion
-site_url: https://elttob.uk/Fusion/
-repo_name: dphfox/Fusion
-repo_url: https://github.com/dphfox/Fusion
+site_name: GithubTutorial
+site_url: https://colorcorrectional.github.io/GithubTutorial/
+repo_name: ColorCorrectional/GithubTutorial
+repo_url: https://github.com/ColorCorrectional/GithubTutorial
 
 extra:
   version:
