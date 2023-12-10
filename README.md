@@ -1,5 +1,6 @@
 # GithubTutorial
 
+# Code
 ```lua
 print("Goodbye, World.")
 
@@ -12,7 +13,7 @@ end
 -- .. create xyz
 doSomething()
 ```
-
+# General
 
 > [!TIP]
 > about stuff!
