@@ -1,5 +1,8 @@
 # GithubTutorial
 
+Just a rest repository to learn how to use
+github.
+
 # Code
 ```lua
 print("Goodbye, World.")
