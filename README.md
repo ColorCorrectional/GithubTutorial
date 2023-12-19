@@ -1,5 +1,7 @@
 # GithubTutorial
 
+Updated Section here from VS code.
+
 Just a rest repository to learn how to use
 github.
 
@@ -13,6 +15,7 @@ local function doSomething()
     end
 end
 
+-- how
 -- .. create xyz
 doSomething()
 ```
