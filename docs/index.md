@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Github Tutorial Test Page"
-  text: "my first general github site (made with vitepress)"
+  name: "stuff"
+  text: "bleh"
   tagline: My great project tagline
   actions:
     - theme: brand

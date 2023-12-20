@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 const nav = [
   { text: 'Home', link: '/' },
@@ -17,9 +17,11 @@ const sidebar = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/repo/',
   title: "Github Tutorial Test Page",
-  // description: "my first general github site (made with vitepress)",
+ // description: "my first general github site (made with vitepress)",
   themeConfig: {
+    
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
     sidebar: sidebar,
@@ -28,4 +30,4 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/ColorCorrectional/GithubTutorial' }
     ]
   }
-})
+});
