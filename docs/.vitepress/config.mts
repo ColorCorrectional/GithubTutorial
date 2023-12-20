@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "pls work",
   description: "pls work de",
+  base: '/GithubTutorial/',
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
