@@ -1,8 +1,5 @@
 # GithubTutorial
-
-Updated Section here from VS code.
-
-Just a rest repository to learn how to use
+Just GitHub repository to learn how to use
 github.
 
 # Code
