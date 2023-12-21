@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 
 const nav = [
   { text: "Home", link: "/" },
-  { text: "API", link: "/markdown-examples" }
+  { text: "API", link: "/markdown-examples" },
+  { text: "My Examples", link: "/my_examples/page-1" },
 ];
 
 const sidebar = [
@@ -16,7 +17,7 @@ const sidebar = [
   {
     text: "My Examples",
     items: [
-      { text: "Page-1", link: "/my-examples/page-1" }
+      { text: "Page-1", link: "/my_examples/page-1" }
     ]
   }
 ];
@@ -29,8 +30,8 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav,
-    sidebar,
+    nav: nav,
+    sidebar: sidebar,
     socialLinks: [
       { icon: "github", link: "https://github.com/ColorCorrectional/GithubTutorial" }
     ]
