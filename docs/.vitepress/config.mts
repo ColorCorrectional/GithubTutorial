@@ -26,7 +26,7 @@ const sidebar = [
 export default defineConfig({
   title: "Github Tutorial Repository",
   description: "The understanding of Vitepress.",
-  // base: '/GithubTutorial/',
+  base: '/GithubTutorial/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
