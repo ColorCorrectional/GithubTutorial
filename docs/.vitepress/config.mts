@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 const nav = [
   { text: "Home", link: "/" },
   { text: "API", link: "/markdown-examples" },
-  { text: "My Examples", link: "/page-1" },
+  { text: "My Examples", link: "/my_examples/page-1" },
 ];
 
 const sidebar = [
@@ -17,7 +17,7 @@ const sidebar = [
   {
     text: "My Examples",
     items: [
-      { text: "Page-1", link: "/page-1" }
+      { text: "Page-1", link: "/my_examples/page-1" }
     ]
   }
 ];
