@@ -87,7 +87,7 @@ local object = {
 Collector.insert(collection, object) --> CleanupMethod: "Destroy"
 Collector.insert(collection, object, "AlternateDestroy") --> CleanupMethod: "AlternateDestroy"
 ```
-::: INFO Double Inserting
+::: info Double Inserting
 You cannot insert insert the same value multiple
 time
 :::
