@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: My Examples
-      link: /my-examples/page-1
+      link: /my_examples/page-1
 
 features:
   - title: Feature A
